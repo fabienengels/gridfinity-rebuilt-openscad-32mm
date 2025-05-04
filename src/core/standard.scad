@@ -8,7 +8,7 @@ h_bot = 2.2;
 /**
  * @brief Size of a single gridfinity unit. [Length, Width] In millimeters.
  */
-GRID_DIMENSIONS_MM = [42, 42];
+GRID_DIMENSIONS_MM = [32, 32];
 
 /**
  * @deprecated Use GRID_DIMENSIONS_MM instead.
